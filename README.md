@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-I am a Master's student in Applied Statistics passionate about technology and data science. I am currently focused on natural language processing 
+I am passionate about technology and data science. I am currently focused on natural language processing and working with large language models.  
 
 
