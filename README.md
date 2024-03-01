@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Johnny and  I am passionate about technology and data science.</h2>
 
 <p>
-  I earned my Master of Science degree in Applied Statistics in December 2023. I am very interested in Natural Language Processing (NLP) and large language models. In my free time, I have used my skills in data analysis, machine learning, and data visualization to work independently on data I find interesting. I tackle challenging problems with a multidisciplinary attitude and leverage any technology to accomplish a task. I also enjoy hiking, kickboxing, and cooking.
+  I am very interested in Natural Language Processing (NLP) and large language models. In my free time, I have used my skills in data analysis, machine learning, and data visualization to work independently on data I find interesting. I tackle challenging problems with a multidisciplinary attitude and leverage any technology to accomplish a task. I also enjoy hiking, kickboxing, and cooking.
 </p>
 
 <div class="learning-section" style="padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
