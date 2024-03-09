@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Johnny and  I am passionate about technology and data science.</h2>
 
 <p>
-  I am very interested in Natural Language Processing (NLP) and large language models. In my free time, I have used my skills in data analysis, machine learning, and data visualization to work independently on data I find interesting. I tackle challenging problems with a multidisciplinary attitude and leverage any technology to accomplish a task. I also enjoy hiking, kickboxing, and cooking.
+  Johnny earned his Master’s in Applied Statistics from the Rochester Institute of Technology, where he explored global ransomware negotiations and attacks for his thesis. He has used his skills in data analysis, machine learning, and data visualization to work independently on data he finds interesting. He tackles challenging problems with a multidisciplinary attitude and leverages any technology to accomplish a task. In his free time, he enjoys kickboxing and exploring the latest advances in large language models.
 </p>
 
 <div class="learning-section" style="padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
