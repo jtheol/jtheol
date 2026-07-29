@@ -30,3 +30,4 @@ Some of the things I’ve built:
 - Data infrastructure
 - Product design
 - Quantitative research
+- Electronics and embedded systems
